@@ -6,7 +6,7 @@ Example 1:
 
 # Solution 1
 
-```
+```python
 def sortNums(nums):
   a = 0
   b = 0
@@ -25,7 +25,7 @@ print sortNums([3, 3, 2, 1, 3, 2, 1])
 # [1, 1, 2, 2, 3, 3, 3]
 ```
 # Solution 2
-```
+```python
 def sortNums(nums):
   leftmost_index = 0 # Represents the leftmost index
   rightmost_index = len(nums) - 1 # Represents the rightmost index

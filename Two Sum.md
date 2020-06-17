@@ -4,7 +4,7 @@ Example:
 * Given [4, 7, 1 , -3, 2] and k = 5,
   return true since 4 + 1 = 5.
   
-```
+```python
 def two_sum(list, k):
   for n in list:
       if k-n in list:

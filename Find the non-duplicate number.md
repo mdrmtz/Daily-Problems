@@ -3,7 +3,7 @@
 Example:
 * Input: [4, 3, 2, 4, 1, 3, 2]
 * Output: 1
-```
+```python
 def singleNumber(nums):
     result = 0
     for item in nums:
