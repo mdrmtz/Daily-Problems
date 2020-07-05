@@ -1,5 +1,4 @@
-##### Problem 1 
-####Add two numbers as a linked list
+##### Problem  Add two numbers as a linked list
 
 This problem was recently asked by Microsoft:
 
